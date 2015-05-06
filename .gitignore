@@ -3,5 +3,6 @@
 .vagrant
 *~
 htdocs/**/*
-!htdocs/index.php
+!htdocs/.gitkeep
+
 
