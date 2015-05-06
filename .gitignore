@@ -2,3 +2,6 @@
 *.swp
 .vagrant
 *~
+htdocs/**/*
+!htdocs/index.php
+
