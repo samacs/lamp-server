@@ -29,7 +29,7 @@ The MySQL server is available to external connections through port 8889.
 * Username: root
 * Password: root
 
-# Details
+Details
 ---------
 * Ubuntu 14.04 64-bit
 * Apache 2
